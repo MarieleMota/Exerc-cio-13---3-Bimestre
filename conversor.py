@@ -10,3 +10,4 @@ def conversor():
   print(msg.read())
 
 conversor()
+print('Teste na aula do dia 06/10')
